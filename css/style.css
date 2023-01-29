@@ -75,7 +75,7 @@ header i{
 }
 
 .upper-main{
-    background-image: url("../images/bgImage.jpeg");
+    background-image: url("../images/bgImage.jpeg"); 
     padding: 2em ;
 }
 .upper-main h1{
